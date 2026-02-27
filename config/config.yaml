@@ -71,14 +71,8 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
-    - id: "3dm"
-      name: "3DM游戏网"
-    - id: "taptap"
-      name: "TapTap"
-    - id: "gcores"
-      name: "机核网"
-    - id: "yystv"
-      name: "游研社"
+    - id: "steam"
+      name: "Steam"
 
 
 
